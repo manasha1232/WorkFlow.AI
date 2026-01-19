@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Google secrets
+client_secret.json
+
+# Frontend & Node
+node_modules/
+front_end/
+
+# OS files
+.DS_Store
