@@ -1,0 +1,18 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+python-dotenv==1.0.1
+
+# Google OAuth & APIs
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+requests==2.31.0
+
+# Database
+sqlalchemy==2.0.29
+
+# Background tasks / scheduling
+apscheduler==3.10.4
+
+# Optional (safe to keep)
+pydantic==2.6.4
